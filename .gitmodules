@@ -1,3 +1,6 @@
 [submodule "lib/digikey-kicad-library"]
 	path = lib/digikey-kicad-library
 	url = https://github.com/Digi-Key/digikey-kicad-library.git
+[submodule "lib/kicad-gigalib"]
+	path = lib/kicad-gigalib
+	url = https://github.com/metacollin/kicad-gigalib.git
