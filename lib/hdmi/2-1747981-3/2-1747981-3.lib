@@ -1,0 +1,46 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 2-1747981-3
+#
+DEF 2-1747981-3 J 0 40 Y Y 1 L N
+F0 "J" -200 1126 50 H V L BNN
+F1 "2-1747981-3" -200 -1200 50 H V L BNN
+F2 "TE_2-1747981-3" 0 0 50 H I L BNN
+F3 "2-1747981-3" 0 0 50 H I L BNN
+F4 "https://www.te.com/usa-en/product-2-1747981-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" 0 0 50 H I L BNN
+F5 "Compliant" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -200 1100 200 1100 N
+P 2 0 0 10 200 1100 200 -1100 N
+P 2 0 0 10 200 -1100 -200 -1100 N
+P 2 0 0 10 -200 -1100 -200 1100 N
+X 1 1 -400 1000 200 R 40 40 0 0 P 
+X 2 2 -400 900 200 R 40 40 0 0 P 
+X 3 3 -400 800 200 R 40 40 0 0 P 
+X 4 4 -400 700 200 R 40 40 0 0 P 
+X 5 5 -400 600 200 R 40 40 0 0 P 
+X 6 6 -400 500 200 R 40 40 0 0 P 
+X 7 7 -400 400 200 R 40 40 0 0 P 
+X 8 8 -400 300 200 R 40 40 0 0 P 
+X 9 9 -400 200 200 R 40 40 0 0 P 
+X 10 10 -400 100 200 R 40 40 0 0 P 
+X 11 11 -400 0 200 R 40 40 0 0 P 
+X 12 12 -400 -100 200 R 40 40 0 0 P 
+X 13 13 -400 -200 200 R 40 40 0 0 P 
+X 14 14 -400 -300 200 R 40 40 0 0 P 
+X 15 15 -400 -400 200 R 40 40 0 0 P 
+X 16 16 -400 -500 200 R 40 40 0 0 P 
+X 17 17 -400 -600 200 R 40 40 0 0 P 
+X 18 18 -400 -700 200 R 40 40 0 0 P 
+X 19 19 -400 -800 200 R 40 40 0 0 P 
+X SHIELD SH1 -400 -1000 200 R 40 40 0 0 P 
+X SHIELD SH2 -400 -1000 200 R 40 40 0 0 P 
+X SHIELD SH3 -400 -1000 200 R 40 40 0 0 P 
+X SHIELD SH4 -400 -1000 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
