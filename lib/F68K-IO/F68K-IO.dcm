@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AE-RX-8025NB
+D 秋月電子 RX-8025NB使用 I2C接続リアルタイムクロック(RTC)
+F http://akizukidenshi.com/catalog/g/gK-08585/
+$ENDCMP
+#
+#End Doc Library

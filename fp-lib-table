@@ -138,4 +138,5 @@
   (lib (name Wire_Connections_Bridges)(type KiCad)(uri ${KIPRJMOD}/lib/kicad-gigalib/modules/Wire_Connections_Bridges.pretty)(options "")(descr ""))
   (lib (name Wire_Pads)(type KiCad)(uri ${KIPRJMOD}/lib/kicad-gigalib/modules/Wire_Pads.pretty)(options "")(descr ""))
   (lib (name 2-1747981-3)(type KiCad)(uri ${KIPRJMOD}/lib/hdmi/2-1747981-3)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri ${KIPRJMOD}/lib/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
 )
